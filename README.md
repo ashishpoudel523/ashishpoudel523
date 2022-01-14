@@ -5,22 +5,22 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishpoudel523" alt="ashishpoudel523" /></a> </p>
 
-- 🌱 I’m currently learning ****React, Node JS & Python****
+- 🌱 I’m currently learning \***\*React, Node JS & Python\*\***
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/ashishpoudel523/](https://www.github.com/ashishpoudel523/)
 
-- 💬 Ask me about ****Java, PHP, Android Studio****
+- 💬 Ask me about \***\*Java, PHP, Android Studio\*\***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/ashishpoudel523" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ashishpoudel523" height="30" width="40" /></a>
-<a href="https://twitter.com/ashishpoudel908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashishpoudel908" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashish-poudel-6585b2184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-poudel-6585b2184" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ashish-poudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ashish-poudel" height="30" width="40" /></a>
-<a href="https://kaggle.com/ashishpoudel523" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashishpoudel523" height="30" width="40" /></a>
-<a href="https://fb.com/ashishpoudel523" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashishpoudel523" height="30" width="40" /></a>
-<a href="https://instagram.com/ashishpoudel5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashishpoudel5" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/application protocol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="application protocol" height="30" width="40" /></a>
+<a href="https://codepen.io/ashishpoudel523" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ashishpoudel523" height="30" width="40" /></a>
+<a href="https://twitter.com/ashishpoudel908" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashishpoudel908" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashish-poudel-6585b2184" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-poudel-6585b2184" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/ashish-poudel" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ashish-poudel" height="30" width="40" /></a>
+<a href="https://kaggle.com/ashishpoudel523" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashishpoudel523" height="30" width="40" /></a>
+<a href="https://fb.com/ashishpoudel523" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashishpoudel523" height="30" width="40" /></a>
+<a href="https://instagram.com/ashishpoudel5" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashishpoudel5" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/application protocol" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="application protocol" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
