@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishpoudel523" alt="ashishpoudel523" /></a> </p>
 
+<a href="https://app.daily.dev/ashishpoudel"><img src="https://api.daily.dev/devcards/82025f1dc72c475ea0a0de19d50ec786.png?r=lr2" width="400" alt="Ashish Poudel's Dev Card"/></a>
+
 - 🌱 I’m currently learning ****React, Node JS & Python****
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/ashishpoudel523/](https://www.github.com/ashishpoudel523/)
@@ -34,4 +36,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishpoudel523&" alt="ashishpoudel523" /></p>
 
-<a href="https://app.daily.dev/ashishpoudel"><img src="https://api.daily.dev/devcards/82025f1dc72c475ea0a0de19d50ec786.png?r=lr2" width="400" alt="Ashish Poudel's Dev Card"/></a>
+
