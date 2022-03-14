@@ -33,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishpoudel523&show_icons=true&locale=en" alt="ashishpoudel523" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishpoudel523&" alt="ashishpoudel523" /></p>
+
+<a href="https://app.daily.dev/ashishpoudel"><img src="https://api.daily.dev/devcards/82025f1dc72c475ea0a0de19d50ec786.png?r=lr2" width="400" alt="Ashish Poudel's Dev Card"/></a>
