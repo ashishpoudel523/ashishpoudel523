@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Poudel</h1>
-<h3 align="center">A passionate tech enthusiast and wants to be full stack developer from Nepal.</h3>
+<h3 align="center">A passionate tech enthusiast and wants to be software developer from Nepal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishpoudel523&label=Profile%20views&color=0e75b6&style=flat" alt="ashishpoudel523" /> </p>
 
@@ -7,11 +7,11 @@
 
 <a href="https://app.daily.dev/ashishpoudel"><img src="https://api.daily.dev/devcards/82025f1dc72c475ea0a0de19d50ec786.png?r=lr2" width="400" alt="Ashish Poudel's Dev Card"/></a>
 
-- 🌱 I’m currently learning ****React, Node JS & Python****
+- 🌱 I’m currently learning ****Java, Node JS & Python****
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/ashishpoudel523/](https://www.github.com/ashishpoudel523/)
 
-- 💬 Ask me about ****Java, PHP, Android Studio****
+- 💬 Ask me about ****Java, PHP, GIT****
 
 - 📫 How to reach me **ashishpoudel523@gmail.com**
 
