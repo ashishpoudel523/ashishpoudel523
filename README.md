@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Poudel</h1>
-<h3 align="center">A passionate tech enthusiast and wants to be software developer from Nepal.</h3>
+<h3 align="center">A passionate tech enthusiast from Nepal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishpoudel523&label=Profile%20views&color=0e75b6&style=flat" alt="ashishpoudel523" /> </p>
 
