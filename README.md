@@ -7,11 +7,11 @@
 
 <a href="https://app.daily.dev/ashishpoudel"><img src="https://api.daily.dev/devcards/82025f1dc72c475ea0a0de19d50ec786.png?r=lr2" width="400" alt="Ashish Poudel's Dev Card"/></a>
 
-- 🌱 I’m currently learning ****Java, Node JS & Python****
+- 🌱 I’m currently learning ****Node JS, React & PostgreSQL Prisma****
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/ashishpoudel523/](https://www.github.com/ashishpoudel523/)
 
-- 💬 Ask me about ****Java, PHP, GIT****
+- 💬 Ask me about ****GIT, Github, Express and Docker****
 
 - 📫 How to reach me **ashishpoudel523@gmail.com**
 
